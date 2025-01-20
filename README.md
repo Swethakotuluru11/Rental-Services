@@ -35,14 +35,6 @@ Tenants can contact Owners directly via the platform to ask questions or request
 System Design Overview:
 The platform is designed with a Client-Server architecture. The Client (user interface) communicates with the Server (backend) to handle all interactions like authentication, property management, booking, and payments.
 
-Technologies Used:
-Frontend: HTML, CSS, JavaScript (React/Angular)
-Backend: Node.js/Express, Python/Django, or Java (Spring Boot)
-Database: MySQL, PostgreSQL, or MongoDB
-Payment Gateway: Stripe, PayPal, or custom payment system
-Getting Started
-To use the Rental Services platform, follow these steps:
-
 Sign Up/Log In: Create an account or log in if you already have one.
 Search for Properties: Browse through the listed properties and apply filters to find your ideal rental.
 Make a Booking: Once you find the property, check the availability and proceed to book.
